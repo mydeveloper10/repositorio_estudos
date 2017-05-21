@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Declaration/Implement abstract class or Interface" />
+    <ignoreAction name="Modifiers/Make Package-Local" />
+    <ignoreAction name="Declaration/Split Declaration" />
+  </component>
+</application>
